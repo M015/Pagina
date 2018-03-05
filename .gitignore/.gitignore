@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> XPLANIN </title>
+</head>
+
+
+<body>
+
+	<header > 
+ 		<form name="login" method="post" action="">
+ 		<table border=0 width="100%" height="8%" bgcolor="silver">
+ 			<tr>
+ 				<th colspan="2"> <font face="Comic Sans MS" size="5" color="#E0E0E0"> Bienvenidos </font></th>
+ 			</tr>
+ 			<tr> 
+ 				<th rowspan="3" align="right"> <font face="Comic Sans MS" size="7" color="#E0E0E0"> XPLANIN </font> </th>
+ 			</tr>
+ 			<tr>
+ 				<th align=" right"> Login  <input type="text" name="Login">
+ 			</tr>
+ 			<tr>
+ 				<th align="right">Password  <input type="Password" name="Password">
+ 			</tr>
+ 
+
+        </table>
+        </form>
+   	</header>
+ 			 
+         
+
+</body>
+</html>
